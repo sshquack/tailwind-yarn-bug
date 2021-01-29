@@ -1,4 +1,4 @@
-# TailwindCSS Yarn Installation Bug
+# Yarn 2 TailwindCSS Installation Bug
 
 ## Steps to repro
 
